@@ -1,38 +1,51 @@
-# FILMDA - AI-Driven Film Revolution
+# FILMDA.AI
 
-A modern, responsive landing page for FILMDA - a revolutionary AI-driven filmmaking company. The website features a sleek black and white design with the premium Gotham Black font.
+> Redefining Film making with AI-powered solutions
+
+FILMDA.AI is a cutting-edge platform that revolutionizes the film production process through innovative AI technology. Our platform streamlines every aspect of production, from pre-production planning to post-production workflows.
 
 ## Features
 
-- Modern, minimalist black and white design
-- Responsive layout for all devices
-- Smooth scroll animations
-- Interactive UI elements
-- Premium typography with Gotham Black font
+- **Smart Clapper** (Beta) - Intelligent scene management and organization
+- **AI-Powered Workflows** - Automated production processes
+- **Real-time Processing** - Instant results and feedback
+- **Professional Tools** - Industry-standard features
 
-## Structure
+## Technology Stack
 
-- `index.html` - Main HTML structure
-- `styles.css` - Custom styling and animations
-- `script.js` - Interactive features and animations
-- `assets/` - Contains fonts and other assets
+- HTML5
+- CSS3 with modern animations
+- JavaScript
+- Responsive Design
+- Modern UI/UX principles
 
-## Setup
+## Live Demo
 
-1. Ensure you have the Gotham Black font file (`Gotham-Black.ttf`) in the `assets` folder
-2. Open `index.html` in a modern web browser
+Visit our website: [FILMDA.AI](https://filmda-ai.netlify.app)
 
-## Design Choices
+## Development
 
-- Black and white theme for premium, professional appearance
-- Gotham Black font for modern, bold typography
-- Subtle animations for enhanced user experience
-- Responsive design for all screen sizes
+To run this project locally:
 
-## Browser Support
+1. Clone the repository
+```bash
+git clone https://github.com/iamr7d/FILMDA.AI.git
+cd FILMDA.AI
+```
 
-The website is optimized for modern browsers including:
-- Chrome
-- Firefox
-- Safari
-- Edge
+2. Open `index.html` in your browser
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+MIT License - feel free to use this code for your own projects
+
+## Contact
+
+For any queries or support, please reach out to us at [support@filmda.ai](mailto:support@filmda.ai)
+
+---
+Made with ❤️ by FILMDA.AI Team
